@@ -1,0 +1,38 @@
+[
+  {
+    "key": "naruto",
+    "name": "Naruto Uzumaki",
+    "short": "A shinobi with chakra powers and unstoppable will.",
+    "hp": 130,
+    "atk": 48,
+    "def": 14,
+    "spd": 36 
+  },
+  {
+    "key": "tony",
+    "name": "Tony Stark (Iron Man)",
+    "short": "Genius inventor in an armored suit with high tech arsenal.",
+    "hp": 110,
+    "atk": 44,
+    "def": 18,
+    "spd": 28
+  },
+  {
+    "key": "mikasa",
+    "name": "Mikasa Ackerman",
+    "short": "Deadly blade-user with exceptional speed and precision.",
+    "hp": 120,
+    "atk": 30,
+    "def": 16,
+    "spd": 40
+  },
+  {
+    "key": "krishh",
+    "name": "Krishh",
+    "short": "Superhuman with strength, agility and healing power.",
+    "hp": 150,
+    "atk": 26,
+    "def": 20,
+    "spd": 24
+  }
+]

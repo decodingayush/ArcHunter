@@ -1,0 +1,22 @@
+{
+  "naruto": [
+    {"id":"rasengan","name":"Rasengan","damage":45,"cost":70},
+    {"id":"shadow_clone","name":"Shadow Clone Jutsu","damage":28,"cost":45},
+    {"id":"nine_tails","name":"Nine-Tails Mode","damage":75,"cost":120}
+  ],
+  "tony": [
+    {"id":"repulsor","name":"Repulsor Blast","damage":38,"cost":60},
+    {"id":"missile","name":"Missile Barrage","damage":55,"cost":90},
+    {"id":"unibeam","name":"Unibeam","damage":95,"cost":140}
+  ],
+  "mikasa": [
+    {"id":"blade_strike","name":"Blade Strike","damage":36,"cost":55},
+    {"id":"spinning_slash","name":"Spinning Slash","damage":58,"cost":85},
+    {"id":"thunder_spears","name":"Thunder Spears","damage":88,"cost":130}
+  ],
+  "krishh": [
+    {"id":"super_punch","name":"Super Punch","damage":32,"cost":45},
+    {"id":"speed_dash","name":"Speed Dash","damage":60,"cost":80},
+    {"id":"healing_surge","name":"Healing Surge","damage":0,"heal":80,"cost":95}
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  {"id":"potion","name":"Health Potion","effect":"heal","value":100,"price":40},
+  {"id":"atk_booster","name":"Attack Booster","effect":"atk","value":20,"price":80},
+  {"id":"def_booster","name":"Defense Booster","effect":"def","value":16,"price":70}
+]
